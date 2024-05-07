@@ -13,6 +13,11 @@
 
   Created by Huskar on 2024/5/7.</note>
       </trans-unit>
+      <trans-unit id="吃的什么饭" xml:space="preserve">
+        <source>哈斯卡</source>
+        <target>哈斯卡</target>
+        <note/>
+      </trans-unit>
     </body>
   </file>
   <file original="Lets/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
