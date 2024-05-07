@@ -16,6 +16,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
+      <trans-unit id="中文简体" xml:space="preserve">
+        <source>哈斯卡</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="可绑定" xml:space="preserve">
         <source>Ready for bundling</source>
         <target>可綁定</target>
@@ -25,10 +29,6 @@
   Created by Huskar on 2024/5/7.</note>
       </trans-unit>
       <trans-unit id="开心" xml:space="preserve">
-        <source>哈斯卡</source>
-        <note/>
-      </trans-unit>
-      <trans-unit id="英文" xml:space="preserve">
         <source>哈斯卡</source>
         <note/>
       </trans-unit>
