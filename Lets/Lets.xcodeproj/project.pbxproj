@@ -123,7 +123,7 @@
 			};
 			buildConfigurationList = EABDCD9E2BEA08EA00BE2690 /* Build configuration list for PBXProject "Lets" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = "zh-Hans";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
