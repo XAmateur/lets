@@ -17,6 +17,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
+      <trans-unit id="不回家吃饭" xml:space="preserve">
+        <source>不回家吃饭</source>
+        <target>不回家吃饭</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="中文简体" xml:space="preserve">
         <source>哈斯卡</source>
         <target>哈斯卡</target>
@@ -29,6 +34,11 @@
   Lets
 
   Created by Huskar on 2024/5/7.</note>
+      </trans-unit>
+      <trans-unit id="回家吃饭" xml:space="preserve">
+        <source>回家吃饭</source>
+        <target>回家吃饭</target>
+        <note/>
       </trans-unit>
       <trans-unit id="开心" xml:space="preserve">
         <source>哈斯卡</source>
